@@ -2,7 +2,8 @@
 📊 Hospital Emergency Room Dashboard | Excel Analytics Project
 I designed an interactive Hospital Emergency Room (ER) Dashboard using Microsoft Excel, focusing on transforming raw healthcare data into clear, actionable insights for better decision-making.
 
- Data Used:
+ Data Used:  <a href="https://github.com/shubhamshankar07/Hospital_Emergency_Room_Dashboard/blob/main/Raw%20data.xlsx">Dataset Link</a>
+
 🔍 Key insights included in the dashboard:
 🧑‍⚕️ Number of Patients
 • Tracks the total number of patients visiting the ER daily
