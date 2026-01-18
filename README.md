@@ -36,14 +36,14 @@ I designed an interactive Hospital Emergency Room (ER) Dashboard using Microsoft
 🏬 Department Referrals
 • Shows which departments receive the most ER referrals
 • Supports staffing and resource allocation decisions
-
+ <a href="https://github.com/shubhamshankar07/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard.xlsx">Dashboard Link</a>
 🛠 Tools & Skills Used:
 ✔ Microsoft Excel
 ✔ Pivot Tables & Pivot Charts
 ✔ Slicers for month/year filtering
 ✔ KPI cards & sparklines
 ✔ Data visualization & storytelling
-<img width="1541" height="574" alt="Screenshot 2026-01-18 123423" src="https://github.com/user-attachments/assets/3e72e0ce-c2a0-413e-84bc-3c0e5f65cc67" />
+Dashboard View: <img width="1541" height="574" alt="Screenshot 2026-01-18 123423" src="https://github.com/user-attachments/assets/3e72e0ce-c2a0-413e-84bc-3c0e5f65cc67" />
 
 This project strengthened my understanding of Excel dashboards, healthcare analytics, and KPI-driven reporting.
 I’m actively building more real-world analytics projects and would really appreciate feedback from the community.
