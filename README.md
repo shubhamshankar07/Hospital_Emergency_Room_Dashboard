@@ -9,11 +9,11 @@ I designed an interactive Hospital Emergency Room (ER) Dashboard using Microsoft
 
 🧑‍⚕️ Number of Patients
 • Tracks the total number of patients visiting the ER daily
-• Uses area sparklines to identify busy days and seasonal trends
+and Uses area sparklines to identify busy days and seasonal trends
 
 ⏱ Average Wait Time
 • Measures how long patients wait to see a medical professional
-• Highlights days with longer wait times that may require process improvements
+and Highlights days with longer wait times that may require process improvements
 
 ⭐ Patient Satisfaction Score
 • Monitors daily average satisfaction levels
@@ -21,23 +21,23 @@ I designed an interactive Hospital Emergency Room (ER) Dashboard using Microsoft
 
 🏥 Patient Admission Status
 • Comparison of admitted vs. not admitted patients
-• Helps understand ER workload and hospital capacity
+and Helps understand ER workload and hospital capacity
 
 👶👵 Patient Age Distribution
 • Groups patients by age categories
-• Identifies which age groups visit the ER most frequently
+and Identifies which age groups visit the ER most frequently
 
 ⏳ Timeliness of Care
 • Percentage of patients seen within 30 minutes
-• Evaluates ER efficiency and response time
+and Evaluates ER efficiency and response time
 
 🚻 Gender-wise Analysis
 • Breakdown of patients by gender
-• Useful for demographic-based planning
+and Useful for demographic-based planning
 
 🏬 Department Referrals
 • Shows which departments receive the most ER referrals
-• Supports staffing and resource allocation decisions
+and Supports staffing and resource allocation decisions
  <a href="https://github.com/shubhamshankar07/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard.xlsx">Dashboard Link</a>
 
 🛠 Tools & Skills Used:
